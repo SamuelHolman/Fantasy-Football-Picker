@@ -1,0 +1,876 @@
+First Name,Last Name,Position,Salary,FPPG,Injury Status,PointsPerDollar
+Mark,Ingram II,RB,11,6.8, , 0.62 
+Andy,Dalton,QB,21,11.6, , 0.55 
+Jameis,Winston,QB,25,17.2, , 0.69 
+Michael,Thomas,WR,23,0,Q, -   
+Nick,Vannett,TE,10,3.4, , 0.34 
+Dwayne,Washington,RB,10,0.5,Q, 0.05 
+J.P.,Holtz,TE,10,0, , -   
+Zach,Wood,TE,10,0, , -   
+Alvin,Kamara,RB,28,15.4, , 0.55 
+Taysom,Hill,TE,14,10.4, , 0.74 
+Tre'Quan,Smith,WR,10,7.2,Q, 0.72 
+Deonte,Harty,WR,10,7.3, , 0.73 
+Adam,Trautman,TE,10,4.5, , 0.45 
+Marquez,Callaway,WR,12,7.6, , 0.63 
+Juwan,Johnson,TE,10,4.2, , 0.42 
+Tony,Jones Jr.,RB,10,2, , 0.20 
+Kirk,Merritt,WR,10,1.8, , 0.18 
+Ian,Book,QB,20,4, , 0.20 
+Kawaan,Baker,WR,10,0,SUSP, -   
+Adam,Prentice,RB,10,0.7, , 0.07 
+Chris,Olave,WR,15,0, , -   
+Dai'Jean,Dixon,WR,10,0, , -   
+Cordarrelle,Patterson,RB,11,13, , 1.18 
+Damien,Williams,RB,10,4.4, , 0.44 
+Keith,Smith,RB,10,1, , 0.10 
+Marcus,Mariota,QB,23,2.1, , 0.09 
+Damiere,Byrd,WR,10,4.7, , 0.47 
+Anthony,Firkser,TE,10,3.9, , 0.39 
+KhaDarel,Hodge,WR,10,2.2, , 0.22 
+Qadree,Ollison,RB,10,3, , 0.30 
+Olamide,Zaccheaus,WR,10,5, , 0.50 
+Parker,Hesse,TE,10,1.7,Q, 0.17 
+Kyle,Pitts,TE,16,8.4, , 0.53 
+Frank,Darby,WR,10,0.6, , 0.06 
+Feleipe,Franks,QB,20,-1, , (0.05)
+Caleb,Huntley,RB,10,0, , -   
+John,Raine,TE,10,0, , -   
+Drake,London,WR,15,0,Q, -   
+Desmond,Ridder,QB,20,0, , -   
+Tyler,Allgeier,RB,10,0, , -   
+John,FitzPatrick,TE,10,0,IR, -   
+Jared,Bernhardt,WR,10,0, , -   
+Stanley,Berryhill,WR,10,0, , -   
+Beau,Brinkley,TE,10,0,IR, -   
+New Orleans,Saints,DEF,20,0, , -   
+Atlanta,Falcons,DEF,10,0, , -   
+Jarvis,Landry,WR,17,8.9, , 0.52 
+Bryan,Edwards,WR,10,5.7, , 0.57 
+Lucas,Krull,TE,10,0, , -   
+Rashid,Shaheed,WR,10,0, , -   
+Abram,Smith,RB,10,0, , -   
+Avery,Williams,RB,10,0, , -   
+Cameron,Batson,WR,10,2.5, , 0.25 
+MyCole,Pruitt,TE,10,4.2, , 0.42 
+KeeSean,Johnson,WR,10,0, , -   
+Kevin,White,WR,10,1.1, , 0.11 
+Taiwan,Jones,RB,10,0, , -   
+Case,Keenum,QB,20,5.9, , 0.30 
+Matt,Barkley,QB,20,0, , -   
+Duke,Johnson,RB,10,11.4, , 1.14 
+Jamison,Crowder,WR,10,7, , 0.70 
+Stefon,Diggs,WR,30,12.9, , 0.43 
+O.J.,Howard,TE,10,2.6, , 0.26 
+Isaiah,McKenzie,WR,14,3.3, , 0.24 
+Tanner,Gentry,WR,10,0, , -   
+Josh,Allen,QB,37,26, , 0.70 
+Devin,Singletary,RB,17,11.3, , 0.66 
+Dawson,Knox,TE,16,9.7, , 0.61 
+Tommy,Sweeney,TE,10,2.1, , 0.21 
+Zack,Moss,RB,10,6.7, , 0.67 
+Gabe,Davis,WR,22,9.9, , 0.45 
+Isaiah,Hodgins,WR,10,0, , -   
+Reggie,Gilliam,RB,10,0.7, , 0.07 
+Marquez,Stevenson,WR,10,0,IR, -   
+Quintin,Morris,TE,10,0,Q, -   
+James,Cook,RB,12,0, , -   
+Khalil,Shakir,WR,10,0, , -   
+Matthew,Stafford,QB,30,21.1, , 0.70 
+Allen,Robinson II,WR,15,5.7, , 0.38 
+Tyler,Higbee,TE,13,7.4, , 0.57 
+Cooper,Kupp,WR,34,22.2, , 0.65 
+Brandon,Powell,WR,10,0.6, , 0.06 
+John,Wolford,QB,22,0.2, , 0.01 
+Darrell,Henderson Jr.,RB,16,12, , 0.75 
+Cam,Akers,RB,18,5.5, , 0.31 
+Van,Jefferson,WR,10,7.6,O, 0.76 
+Brycen,Hopkins,TE,10,4, , 0.40 
+Bryce,Perkins,QB,20,0, , -   
+Tutu,Atwell,WR,10,0, , -   
+Jacob,Harris,TE,10,0, , -   
+Jake,Funk,RB,10,0.2, , 0.02 
+Ben,Skowronek,WR,10,1.4, , 0.14 
+Landen,Akers,WR,10,0, , -   
+Kyren,Williams,RB,10,0, , -   
+Buffalo,Bills,DEF,17,0, , -   
+Los Angeles,Rams,DEF,13,0, , -   
+Raheem,Blackshear,RB,10,0, , -   
+Neil,Pau'u,WR,10,0, , -   
+Lance,McCutcheon,WR,10,0, , -   
+Roger,Carter Jr.,TE,10,0, , -   
+Jared,Pinkney,TE,10,0, , -   
+Jake,Kumerow,WR,10,0.4, , 0.04 
+Trey,Ragas,RB,10,2.5, , 0.25 
+Xavier,Jones,RB,10,0, , -   
+Austin,Trammell,WR,10,0, , -   
+Warren,Jackson,WR,10,0, , -   
+J.J.,Koski,WR,10,0,IR, -   
+Tom,Brady,QB,34,22.1, , 0.65 
+Blaine,Gabbert,QB,20,0.3, , 0.02 
+Giovani,Bernard,RB,10,5.4,Q, 0.54 
+Kenjon,Barner,RB,10,0,IR, -   
+Ryan,Griffin,QB,20,0, , -   
+Mike,Evans,WR,28,14.8, , 0.53 
+Cameron,Brate,TE,11,3.8, , 0.35 
+Breshad,Perriman,WR,10,4.8, , 0.48 
+Cyril,Grayson Jr.,WR,10,13.2, , 1.32 
+Leonard,Fournette,RB,23,16.5, , 0.72 
+Chris,Godwin,WR,22,13.8, , 0.63 
+Russell,Gage,WR,15,10,Q, 0.67 
+Scotty,Miller,WR,10,3.1, , 0.31 
+Ke'Shawn,Vaughn,RB,10,6.8, , 0.68 
+Tyler,Johnson,WR,10,3.6, , 0.36 
+Kyle,Trask,QB,20,0, , -   
+Jaelon,Darden,WR,10,0.8, , 0.08 
+Rachaad,White,RB,10,0, , -   
+Cade,Otton,TE,10,0, , -   
+Ko,Kieft,TE,10,0, , -   
+Ezekiel,Elliott,RB,21,12.9, , 0.61 
+Dak,Prescott,QB,33,20.7, , 0.63 
+Jeremy,Sprinkle,TE,10,1.2, , 0.12 
+Noah,Brown,WR,12,2.9, , 0.24 
+Cooper,Rush,QB,20,6.3, , 0.32 
+James,Washington,WR,10,4,IR, 0.40 
+Michael,Gallup,WR,16,8.2,O, 0.51 
+Dalton,Schultz,TE,20,10.1, , 0.51 
+Will,Grier,QB,20,0, , -   
+Tony,Pollard,RB,13,9.2, , 0.71 
+Ian,Bunting,TE,10,0,IR, -   
+CeeDee,Lamb,WR,25,11.3, , 0.45 
+Ben,DiNucci,QB,20,0, , -   
+Rico,Dowdle,RB,10,0, , -   
+Sean,McKeon,TE,10,2.1, , 0.21 
+Simi,Fehoko,WR,10,0, , -   
+Brandon,Smith,WR,10,0, , -   
+Jalen,Tolbert,WR,10,0, , -   
+Jake,Ferguson,TE,10,0, , -   
+Tampa Bay,Buccaneers,DEF,15,0, , -   
+Dallas,Cowboys,DEF,16,0, , -   
+Kaylon,Geiger Sr.,WR,10,0, , -   
+Jerreth,Sterns,WR,10,0, , -   
+Deven,Thompkins,WR,10,0, , -   
+Dennis,Houston,WR,10,0, , -   
+Aaron,Shampklin,RB,10,0, , -   
+Peyton,Hendershot,TE,10,0, , -   
+Dontario,Drummond,WR,10,0, , -   
+Malik,Davis,RB,10,0, , -   
+JJ,Howland,TE,10,0, , -   
+T.J.,Vasher,WR,10,0, , -   
+Kyle,Rudolph,TE,10,3.1, , 0.31 
+Julio,Jones,WR,10,6.7, , 0.67 
+KaVontae,Turpin,WR,10,0, , -   
+Patrick,Laird,RB,10,1.2, , 0.12 
+Aaron,Rodgers,QB,30,20.3, , 0.68 
+Marcedes,Lewis,TE,10,2.2, , 0.22 
+Randall,Cobb,WR,12,6.6, , 0.55 
+Sammy,Watkins,WR,14,5.2, , 0.37 
+Aaron,Jones,RB,22,14, , 0.64 
+Robert,Tonyan,TE,15,5.2,Q, 0.35 
+Danny,Etling,QB,20,0, , -   
+Allen,Lazard,WR,22,8.2,Q, 0.37 
+Juwann,Winfree,WR,10,1.6, , 0.16 
+Alize,Mack,TE,10,0, , -   
+Jordan,Love,QB,20,4, , 0.20 
+AJ,Dillon,RB,18,9.8, , 0.54 
+Josiah,Deguara,TE,10,3.8, , 0.38 
+Tyler,Davis,TE,10,0.7, , 0.07 
+Patrick,Taylor,RB,10,4, , 0.40 
+Amari,Rodgers,WR,10,0.5, , 0.05 
+Christian,Watson,WR,10,0, , -   
+Romeo,Doubs,WR,14,0, , -   
+Samori,Toure,WR,10,0, , -   
+Tyler,Goodson,RB,10,0, , -   
+Kirk,Cousins,QB,27,18.3, , 0.68 
+Andrew,DePaola,TE,10,0, , -   
+Adam,Thielen,WR,19,12.8, , 0.67 
+Sean,Mannion,QB,20,13, , 0.65 
+C.J.,Ham,RB,10,1.6, , 0.16 
+Dalvin,Cook,RB,28,14.2, , 0.51 
+Johnny,Mundt,TE,10,0.7, , 0.07 
+Irv,Smith Jr.,TE,12,0, , -   
+Alexander,Mattison,RB,12,6.9, , 0.58 
+Bisi,Johnson,WR,10,0,IR, -   
+Justin,Jefferson,WR,31,15.8, , 0.51 
+K.J.,Osborn,WR,12,7.9, , 0.66 
+Dan,Chisena,WR,10,0, , -   
+Ben,Ellefson,TE,10,0, , -   
+Trishton,Jackson,WR,10,0, , -   
+Kellen,Mond,QB,20,0.2, , 0.01 
+Kene,Nwangwu,RB,10,2.3, , 0.23 
+Ihmir,Smith-Marsette,WR,10,4.4, , 0.44 
+Zach,Davidson,TE,10,0, , -   
+Myron,Mitchell,WR,10,0, , -   
+Ty,Chandler,RB,10,0, , -   
+Jalen,Nailor,WR,10,0, , -   
+Nick,Muse,TE,10,0, , -   
+Bryant,Koback,RB,10,0, , -   
+Green Bay,Packers,DEF,12,0, , -   
+Minnesota,Vikings,DEF,12,0, , -   
+Jack,Coco,TE,10,0, , -   
+Sal,Cannella,TE,10,0, , -   
+Ishmael,Hyman,WR,10,0, , -   
+Dexter,Williams,RB,10,0, , -   
+Nate,Becker,TE,10,0, , -   
+Travis,Fulgham,WR,10,0, , -   
+Thomas,Hennigan,WR,10,0,IR, -   
+Malik,Taylor,WR,10,0.3,IR, 0.03 
+Nick,Mullens,QB,20,9.9, , 0.50 
+Brandon,Bolden,RB,10,6.4, , 0.64 
+Derek,Carr,QB,27,15.9, , 0.59 
+Davante,Adams,WR,28,17.4, , 0.62 
+Ameer,Abdullah,RB,10,4.1, , 0.41 
+Darren,Waller,TE,21,9.8, , 0.47 
+Mack,Hollins,WR,10,3.6, , 0.36 
+Keelan,Cole,WR,10,4.6, , 0.46 
+Jacob,Hollister,TE,10,2.3, , 0.23 
+Jakob,Johnson,RB,10,0.9, , 0.09 
+Josh,Jacobs,RB,20,13.4, , 0.67 
+Jarrett,Stidham,QB,20,0, , -   
+Foster,Moreau,TE,12,4.7, , 0.39 
+Hunter,Renfrow,WR,18,12.1, , 0.67 
+Tyron,Johnson,WR,10,0.3, , 0.03 
+Nick,Bowers,TE,10,0, , -   
+Dillon,Stoner,WR,10,0, , -   
+DJ,Turner,WR,10,0, , -   
+Zamir,White,RB,10,0, , -   
+Brittain,Brown,RB,10,0, , -   
+Chase,Daniel,QB,20,-0.2, , (0.01)
+Keenan,Allen,WR,24,12.8, , 0.53 
+DeAndre,Carter,WR,10,4.4, , 0.44 
+Mike,Williams,WR,19,13, , 0.68 
+Gerald,Everett,TE,15,6.3, , 0.42 
+Austin,Ekeler,RB,34,19.3, , 0.57 
+Easton,Stick,QB,20,0, , -   
+Jalen,Guyton,WR,10,5.1, , 0.51 
+Donald,Parham Jr.,TE,11,4.1,Q, 0.37 
+Jason,Moore Jr.,WR,10,7.1, , 0.71 
+Justin,Herbert,QB,35,22.6, , 0.65 
+Joshua,Kelley,RB,10,1.8, , 0.18 
+Joe,Reed,WR,10,0, , -   
+Gabe,Nabers,RB,10,0.6, , 0.06 
+Joshua,Palmer,WR,10,5.1, , 0.51 
+Tre',McKitty,TE,10,1.3, , 0.13 
+Larry,Rountree III,RB,10,1.7, , 0.17 
+Hunter,Kampmoyer,TE,10,0, , -   
+Michael,Bandy,WR,10,0, , -   
+Isaiah,Spiller,RB,15,0, , -   
+Zander,Horvath,RB,10,0, , -   
+Las Vegas,Raiders,DEF,10,0, , -   
+Los Angeles,Chargers,DEF,10,0, , -   
+Cole,Fotheringham,TE,10,0, , -   
+Chase,Garbers,QB,20,0, , -   
+Justin,Hall,WR,10,0, , -   
+Sincere,McCormick,RB,10,0,IR, -   
+Trevon,Bradford,WR,10,0, , -   
+Leddie,Brown,RB,10,0, , -   
+Erik,Krommenhoek,TE,10,0, , -   
+Kevin,Marks Jr.,RB,10,0, , -   
+Jesper,Horsted,TE,10,3.8, , 0.38 
+Isaiah,Zuber,WR,10,0, , -   
+Austin,Walter,RB,10,4.5, , 0.45 
+Sage,Surratt,TE,10,0, , -   
+Matt,Ryan,QB,26,13.8, , 0.53 
+Mo,Alie-Cox,TE,12,4, , 0.33 
+Keke,Coutee,WR,10,1, , 0.10 
+Nyheim,Hines,RB,16,5.4, , 0.34 
+Parris,Campbell,WR,13,4.5, , 0.35 
+Ashton,Dulin,WR,10,2.4, , 0.24 
+Michael,Pittman Jr.,WR,23,11.4, , 0.50 
+Jonathan,Taylor,RB,40,19.8, , 0.50 
+Dezmon,Patmon,WR,10,2.3, , 0.23 
+DeMichael,Harris,WR,10,0, , -   
+Kylen,Granson,TE,10,1.6, , 0.16 
+Sam,Ehlinger,QB,20,0.3, , 0.02 
+Deon,Jackson,RB,10,3, , 0.30 
+Michael,Jacobson,TE,10,0, , -   
+Nikola,Kalinic,TE,10,0, , -   
+Alec,Pierce,WR,10,0, , -   
+Jelani,Woods,TE,12,0, , -   
+Rex,Burkhead,RB,10,6.1, , 0.61 
+Brandin,Cooks,WR,20,11.7, , 0.59 
+Phillip,Dorsett II,WR,10,2.9, , 0.29 
+Chris,Conley,WR,10,3.8, , 0.38 
+Chris,Moore,WR,10,4.5, , 0.45 
+Jeff,Driskel,TE,10,0, , -   
+Marlon,Mack,RB,11,2.4, , 0.22 
+Antony,Auclair,TE,10,3.3, , 0.33 
+Pharaoh,Brown,TE,10,2.2, , 0.22 
+Dare,Ogunbowale,RB,10,3.4, , 0.34 
+Royce,Freeman,RB,10,2.5, , 0.25 
+Kyle,Allen,QB,20,3.9, , 0.20 
+Paul,Quessenberry,RB,10,0, , -   
+Davis,Mills,QB,20,12.8, , 0.64 
+Nico,Collins,WR,12,4.8, , 0.40 
+Brevin,Jordan,TE,10,5.7, , 0.57 
+Jalen,Camp,WR,10,0, , -   
+Dameon,Pierce,RB,11,0, , -   
+Teagan,Quitoriano,TE,10,0,IR, -   
+Indianapolis,Colts,DEF,17,0, , -   
+Houston,Texans,DEF,10,0, , -   
+Jack,Coan,QB,20,0, , -   
+Ethan,Fernea,WR,10,0, , -   
+D'vonte,Price,RB,10,0, , -   
+Samson,Nacua,WR,10,0, , -   
+Drew,Estrada,WR,10,0, , -   
+Seth,Green,TE,10,0, , -   
+Johnny,Johnson III,WR,10,0, , -   
+Phillip,Lindsay,RB,10,3.1, , 0.31 
+Connor,Wedington,WR,10,0, , -   
+Nick,Foles,QB,20,16.8, , 0.84 
+Ty'Son,Williams,RB,10,5.3, , 0.53 
+Mason,Schreck,TE,10,0, , -   
+Chester,Rogers,WR,10,3, , 0.30 
+Mike,Strachan,WR,10,1.8, , 0.18 
+Darius,Anderson,RB,10,0,IR, -   
+Drew,Ogletree,TE,10,0,IR, -   
+Josh,Johnson,QB,20,12.1, , 0.61 
+Russell,Wilson,QB,31,16.7, , 0.54 
+Melvin,Gordon III,RB,20,11.3, , 0.57 
+Eric,Tomlinson,TE,10,0.2, , 0.02 
+Eric,Saubert,TE,10,1.8, , 0.18 
+Courtland,Sutton,WR,18,7.1, , 0.39 
+Mike,Boone,RB,10,2.2, , 0.22 
+Brett,Rypien,QB,20,0, , -   
+Andrew,Beck,TE,10,0, , -   
+Jerry,Jeudy,WR,16,6.6, , 0.41 
+KJ,Hamler,WR,10,3.3, , 0.33 
+Albert,Okwuegbunam,TE,12,4.6, , 0.38 
+Tyrie,Cleveland,WR,10,0,Q, -   
+Kendall,Hinton,WR,10,2.8, , 0.28 
+Javonte,Williams,RB,27,10.8, , 0.40 
+Seth,Williams,WR,10,3.9, , 0.39 
+Greg,Dulcich,TE,10,0,IR, -   
+Montrell,Washington,WR,10,0, , -   
+Nick,Bellore,RB,10,0.1, , 0.01 
+Geno,Smith,QB,20,13.8, , 0.69 
+Tyler,Ott,TE,10,0, , -   
+Tyler,Lockett,WR,17,12.8, , 0.75 
+Rashaad,Penny,RB,21,11.9, , 0.57 
+Will,Dissly,TE,10,3, , 0.30 
+Noah,Fant,TE,12,7.8, , 0.65 
+Drew,Lock,QB,20,8.9, , 0.45 
+DK,Metcalf,WR,19,12.2, , 0.64 
+Travis,Homer,RB,10,3.8, , 0.38 
+Darwin,Thompson,RB,10,0, , -   
+Penny,Hart,WR,10,0.9, , 0.09 
+Cody,Thompson,WR,10,0,IR, -   
+Jacob,Eason,QB,20,0, , -   
+Colby,Parkinson,TE,10,1.2, , 0.12 
+DeeJay,Dallas,RB,10,2.9, , 0.29 
+Freddie,Swain,WR,10,4.4, , 0.44 
+Aaron,Fuller,WR,10,0, , -   
+Tyler,Mabry,TE,10,0, , -   
+Dee,Eskridge,WR,10,2.9, , 0.29 
+Cade,Johnson,WR,10,0, , -   
+Josh,Johnson,RB,10,0, , -   
+Kenneth,Walker III,RB,14,0,Q, -   
+Bo,Melton,WR,10,0, , -   
+Dareke,Young,WR,10,0, , -   
+Denver,Broncos,DEF,14,0, , -   
+Seattle,Seahawks,DEF,11,0, , -   
+Brandon,Johnson,WR,10,0, , -   
+Dylan,Parham,TE,10,0, , -   
+Jalen,Virgil,WR,10,0, , -   
+Kevin,Kassis,WR,10,0, , -   
+Marquise,Goodwin,WR,10,3.4,Q, 0.34 
+Tim,Patrick,WR,10,8.1,IR, 0.81 
+Damarea,Crockett,RB,10,0.7,IR, 0.07 
+Darrius,Shepherd,WR,10,0, , -   
+JaQuan,Hardy,RB,10,4.4, , 0.44 
+J.J.,Arcega-Whiteside,WR,10,0.7, , 0.07 
+Devine,Ozigbo,RB,10,0.9, , 0.09 
+Cade,Brewer,TE,10,0, , -   
+Marvin,Jones Jr.,WR,14,8.5, , 0.61 
+Chris,Manhertz,TE,10,2, , 0.20 
+Laquon,Treadwell,WR,10,5.5, , 0.55 
+Evan,Engram,TE,11,5.3, , 0.48 
+Zay,Jones,WR,12,6.1, , 0.51 
+C.J.,Beathard,QB,20,0.8, , 0.04 
+Jamal,Agnew,WR,10,6.4, , 0.64 
+Dan,Arnold,TE,10,5.8, , 0.58 
+Christian,Kirk,WR,16,9.8, , 0.61 
+Ryquell,Armstead,RB,10,5.6, , 0.56 
+Laviska,Shenault Jr.,WR,10,6, , 0.60 
+Jeff,Cotton Jr.,WR,10,0, , -   
+James,Robinson,RB,17,11.3, , 0.66 
+Trevor,Lawrence,QB,24,12.7, , 0.53 
+Travis,Etienne Jr.,RB,16,0, , -   
+Luke,Farrell,TE,10,1.1, , 0.11 
+Tim,Jones,WR,10,0, , -   
+Mekhi,Sargent,RB,10,0.3, , 0.03 
+Snoop,Conner,RB,10,0, , -   
+Kevin,Austin Jr.,WR,10,0, , -   
+Gerrit,Prince,TE,10,0, , -   
+Logan,Thomas,TE,15,8.9,Q, 0.59 
+Taylor,Heinicke,QB,20,14.8, , 0.74 
+Carson,Wentz,QB,22,15.6, , 0.71 
+Jonathan,Williams,RB,10,3.7, , 0.37 
+Marken,Michel,WR,10,0, , -   
+J.D.,McKissic,RB,14,9.7, , 0.69 
+Alex,Erickson,WR,10,0.6, , 0.06 
+Curtis,Samuel,WR,10,1.4, , 0.14 
+Reggie,Bonnafon,RB,10,2.6, , 0.26 
+Cam,Sims,WR,10,3.4,Q, 0.34 
+Terry,McLaurin,WR,23,10.3, , 0.45 
+Antonio,Gibson,RB,18,13, , 0.72 
+Dyami,Brown,WR,10,2.2, , 0.22 
+John,Bates,TE,10,3.7, , 0.37 
+Dax,Milne,WR,10,1.2, , 0.12 
+Jaret,Patterson,RB,10,3.6, , 0.36 
+Jahan,Dotson,WR,12,0, , -   
+Brian,Robinson Jr.,RB,11,0,O, -   
+Sam,Howell,QB,20,0, , -   
+Cole,Turner,TE,10,0,Q, -   
+Curtis,Hodges,TE,10,0,IR, -   
+Kyric,McGowan,WR,10,0, , -   
+Armani,Rogers,TE,10,0, , -   
+Jacksonville,Jaguars,DEF,10,0, , -   
+Washington,Commanders,DEF,14,0, , -   
+Willie,Johnson,WR,10,0,IR, -   
+Eli,Wolf,TE,10,0, , -   
+E.J.,Perry,QB,20,0, , -   
+Matt,Cole,WR,10,0, , -   
+Kendall,Blanton,TE,10,3.8, , 0.38 
+Jake,Hausmann,TE,10,0, , -   
+Jake,Luton,QB,20,0, , -   
+Tyrod,Taylor,QB,20,14.5, , 0.73 
+Sterling,Shepard,WR,12,8.5,Q, 0.71 
+Davis,Webb,QB,20,-0.3, , (0.02)
+Kenny,Golladay,WR,12,5, , 0.42 
+C.J.,Board,WR,10,1.3, , 0.13 
+Matt,Breida,RB,10,5.6, , 0.56 
+Saquon,Barkley,RB,18,9.9, , 0.55 
+Jordan,Akins,TE,10,2.5, , 0.25 
+Richie,James Jr.,WR,10,0, , -   
+Robert,Foster,WR,10,0, , -   
+Daniel,Jones,QB,21,15.8, , 0.75 
+Darius,Slayton,WR,10,4.3, , 0.43 
+Alex,Bachman,WR,10,-0.3, , (0.03)
+David,Sills V,WR,10,0.7, , 0.07 
+Chris,Myarick,TE,10,2.3, , 0.23 
+Collin,Johnson,WR,10,2,IR, 0.20 
+Sandro,Platzgummer,RB,10,0, , -   
+Antonio,Williams,RB,10,0, , -   
+Kadarius,Toney,WR,16,7, , 0.44 
+Gary,Brightwell,RB,10,0.2, , 0.02 
+Wan'Dale,Robinson,WR,14,0, , -   
+Daniel,Bellinger,TE,10,0, , -   
+Ryan,Tannehill,QB,20,16.3, , 0.82 
+Robert,Woods,WR,18,12.7, , 0.71 
+Geoff,Swaim,TE,10,3.4, , 0.34 
+Derrick,Henry,RB,40,21.8, , 0.55 
+Austin,Hooper,TE,11,4.9, , 0.45 
+Cody,Hollister,WR,10,1.8, , 0.18 
+Trenton,Cannon,RB,10,0, , -   
+Logan,Woodside,QB,20,-0.3, , (0.02)
+Dontrell,Hilliard,RB,12,8.2, , 0.68 
+Tommy,Hudson,TE,10,1.2,IR, 0.12 
+Nick,Westbrook-Ikhine,WR,10,5.5, , 0.55 
+Mason,Kinsey,WR,10,0, , -   
+Dez,Fitzpatrick,WR,10,4.5, , 0.45 
+Racey,McMath,WR,10,0,IR, -   
+Tory,Carter,RB,10,0, , -   
+Treylon,Burks,WR,10,0, , -   
+Malik,Willis,QB,20,0, , -   
+Hassan,Haskins,RB,10,0, , -   
+Chig,Okonkwo,TE,10,0, , -   
+Kyle,Philips,WR,10,0, , -   
+Thomas,Odukoya,TE,10,0, , -   
+New York,Giants,DEF,10,0, , -   
+Tennessee,Titans,DEF,17,0, , -   
+Julius,Chestnut,RB,10,0, , -   
+Reggie,Roberson Jr.,WR,10,0, , -   
+Austin,Allen,TE,10,0, , -   
+Jashaun,Corbin,RB,10,0, , -   
+Marcus,Kemp,WR,10,0.2, , 0.02 
+David,Wells,TE,10,0, , -   
+Keelan,Doss,WR,10,0, , -   
+Andre,Miller,TE,10,0, , -   
+Ricky,Seals-Jones,TE,10,4.9, , 0.49 
+Richard,Rodgers,TE,10,2.1, , 0.21 
+Zach,Pascal,WR,10,4.7, , 0.47 
+Greg,Ward,WR,10,3.5,IR, 0.35 
+Dallas,Goedert,TE,18,9.3, , 0.52 
+Deon,Cain,WR,10,0, , -   
+Boston,Scott,RB,14,8.5, , 0.61 
+A.J.,Brown,WR,24,12.3, , 0.51 
+Miles,Sanders,RB,17,8.3, , 0.49 
+Gardner,Minshew II,QB,26,11.6, , 0.45 
+Jalen,Reagor,WR,10,3.3, , 0.33 
+Jalen,Hurts,QB,33,21.2, , 0.64 
+John,Hightower,WR,10,0, , -   
+Jason,Huntley,RB,10,5.1, , 0.51 
+Quez,Watkins,WR,10,5.5, , 0.55 
+Noah,Togiai,TE,10,0, , -   
+Reid,Sinnett,QB,20,0, , -   
+DeVonta,Smith,WR,16,9.1, , 0.57 
+Kenneth,Gainwell,RB,15,7.1, , 0.47 
+Jack,Stoll,TE,10,0.7, , 0.07 
+Devon,Allen,WR,10,0, , -   
+Grant,Calcaterra,TE,10,0, , -   
+Kennedy,Brooks,RB,10,0, , -   
+Britain,Covey,WR,10,0, , -   
+Carson,Strong,QB,20,0, , -   
+Jared,Goff,QB,24,14.5, , 0.60 
+Kalif,Raymond,WR,10,6.8, , 0.68 
+Josh,Reynolds,WR,10,6.6, , 0.66 
+Jamaal,Williams,RB,13,8.2, , 0.63 
+DJ,Chark Jr.,WR,12,10.3, , 0.86 
+Godwin,Igwebuike,RB,10,1.6, , 0.16 
+Tim,Boyle,QB,20,7.6, , 0.38 
+T.J.,Hockenson,TE,19,9.6, , 0.51 
+Trinity,Benson,WR,10,2.2, , 0.22 
+David,Blough,QB,20,0.6, , 0.03 
+Tom,Kennedy,WR,10,2.6, , 0.26 
+Craig,Reynolds,RB,10,6.3, , 0.63 
+D'Andre,Swift,RB,24,13.7, , 0.57 
+Quintez,Cephus,WR,10,8.4, , 0.84 
+Amon-Ra,St. Brown,WR,21,11.4, , 0.54 
+Jermar,Jefferson,RB,10,5.9, , 0.59 
+Brock,Wright,TE,10,3.7, , 0.37 
+Shane,Zylstra,TE,10,2.4, , 0.24 
+James,Mitchell,TE,10,0, , -   
+Philadelphia,Eagles,DEF,12,0, , -   
+Detroit,Lions,DEF,10,0, , -   
+Greg,Bell,RB,10,0,IR, -   
+Derrick,Deese Jr.,TE,10,0, , -   
+Kalil,Pimpleton,WR,10,0, , -   
+Devin,Funchess,TE,10,0, , -   
+Jaeden,Graham,TE,10,0, , -   
+Justin,Jackson,RB,10,5.4, , 0.54 
+Maurice,Alexander,WR,10,0, , -   
+Chad,Henne,QB,20,0.8, , 0.04 
+Josh,Gordon,WR,10,1.3, , 0.13 
+Travis,Kelce,TE,28,14.1, , 0.50 
+James,Winchester,TE,10,0, , -   
+Blake,Bell,TE,10,1.2,IR, 0.12 
+Michael,Burton,RB,10,1.1, , 0.11 
+Corey,Coleman,WR,10,0, , -   
+Patrick,Mahomes,QB,37,22.7, , 0.61 
+JuJu,Smith-Schuster,WR,19,5.4, , 0.28 
+Ronald,Jones II,RB,10,4.9, , 0.49 
+Justin,Watson,WR,10,0, , -   
+Daurice,Fountain,WR,10,0, , -   
+Marquez,Valdes-Scantling,WR,16,6.7, , 0.42 
+Jordan,Franks,TE,10,0, , -   
+Mecole,Hardman,WR,14,7.2, , 0.51 
+Jody,Fortson,TE,10,4.8, , 0.48 
+Derrick,Gore,RB,10,5.8, , 0.58 
+Clyde,Edwards-Helaire,RB,14,10, , 0.71 
+Noah,Gray,TE,10,1.7, , 0.17 
+Cornell,Powell,WR,10,0, , -   
+Matt,Bushman,TE,10,0, , -   
+Shane,Buechele,QB,20,0, , -   
+Skyy,Moore,WR,15,0, , -   
+Isiah,Pacheco,RB,10,0, , -   
+Dustin,Crum,QB,20,0, , -   
+Jerrion,Ealy,RB,10,0, , -   
+Tayon,Fleet-Davis,RB,10,0, , -   
+Justyn,Ross,WR,10,0,IR, -   
+Colt,McCoy,QB,22,6,IR, 0.27 
+A.J.,Green,WR,14,7.6, , 0.54 
+DeAndre,Hopkins,WR,10,12.6,SUSP, 1.26 
+Zach,Ertz,TE,17,8.2,Q, 0.48 
+Maxx,Williams,TE,10,6.7, , 0.67 
+Stephen,Anderson,TE,10,2.3, , 0.23 
+James,Conner,RB,21,14.7, , 0.70 
+Kyler,Murray,QB,33,20.9, , 0.63 
+Marquise,Brown,WR,18,11.3, , 0.63 
+Andy,Isabella,WR,10,0.6, , 0.06 
+Trace,McSorley,QB,20,0, , -   
+Antoine,Wesley,WR,10,5.6,IR, 0.56 
+Greg,Dortch,WR,10,1.1, , 0.11 
+Eno,Benjamin,RB,12,3.3, , 0.28 
+Andre,Baccellia,WR,10,0, , -   
+Jonathan,Ward,RB,10,1,Q, 0.10 
+Rondale,Moore,WR,13,5.9, , 0.45 
+Bernhard,Seikovits,TE,10,0, , -   
+Trey,McBride,TE,10,0, , -   
+Keaontay,Ingram,RB,10,0, , -   
+Jontre,Kirklin,WR,10,0, , -   
+JaVonta,Payton,WR,10,0, , -   
+Chris,Pierce Jr.,TE,10,0, , -   
+Kansas City,Chiefs,DEF,12,0, , -   
+Arizona,Cardinals,DEF,13,0, , -   
+Jarrett,Guarantano,QB,20,0, , -   
+Darrel,Williams,RB,12,9.5, , 0.79 
+Jerick,McKinnon,RB,10,6.2, , 0.62 
+Aaron,Parker,WR,10,0, , -   
+Victor,Bolden Jr.,WR,10,0, , -   
+Gary,Jennings,WR,10,0, , -   
+Matthew,Slater,WR,10,0, , -   
+Brian,Hoyer,QB,20,2.5, , 0.13 
+DeVante,Parker,WR,14,9.3, , 0.66 
+Nelson,Agholor,WR,10,5.8, , 0.58 
+Ty,Montgomery,WR,10,1.7,Q, 0.17 
+Hunter,Henry,TE,13,8.4, , 0.65 
+Jonnu,Smith,TE,10,3.6, , 0.36 
+Kendrick,Bourne,WR,13,9.9, , 0.76 
+Damien,Harris,RB,20,12.8, , 0.64 
+Jakobi,Meyers,WR,13,8.9,Q, 0.68 
+Matt,Sokol,TE,10,0, , -   
+Devin,Asiasi,TE,10,0,Q, -   
+J.J.,Taylor,RB,10,3.3, , 0.33 
+Kristian,Wilkerson,WR,10,18.2,IR, 1.82 
+Mac,Jones,QB,20,13.8, , 0.69 
+Rhamondre,Stevenson,RB,18,8.9, , 0.49 
+Tre,Nixon,WR,10,0, , -   
+Tyquan,Thornton,WR,10,0,IR, -   
+Pierre,Strong Jr.,RB,10,0, , -   
+Bailey,Zappe,QB,20,0, , -   
+Kevin,Harris,RB,10,0, , -   
+Teddy,Bridgewater,QB,21,15, , 0.71 
+Raheem,Mostert,RB,13,2, , 0.15 
+Tyreek,Hill,WR,27,14.5, , 0.54 
+Cethan,Carter,TE,10,0.3, , 0.03 
+River,Cracraft,WR,10,0, , -   
+Sony,Michel,RB,10,6.9, , 0.69 
+Mike,Gesicki,TE,11,7.6, , 0.69 
+Durham,Smythe,TE,10,3.5, , 0.35 
+Chase,Edmonds,RB,15,9.6,Q, 0.64 
+Cedrick,Wilson Jr.,WR,10,8.9, , 0.89 
+Trent,Sherfield,WR,10,1.4, , 0.14 
+Myles,Gaskin,RB,10,8.8,Q, 0.88 
+Alec,Ingold,RB,10,2.8,Q, 0.28 
+John,Lovett,RB,10,0,IR, -   
+Preston,Williams,WR,10,1.8, , 0.18 
+Tua,Tagovailoa,QB,21,14.7, , 0.70 
+Lynn,Bowden Jr.,WR,10,0, , -   
+Salvon,Ahmed,RB,10,3,Q, 0.30 
+Jaylen,Waddle,WR,16,12.1,Q, 0.76 
+Hunter,Long,TE,10,0.4, , 0.04 
+Gerrid,Doaks,RB,10,0, , -   
+Erik,Ezukanma,WR,10,0, , -   
+Skylar,Thompson,QB,20,0, , -   
+New England,Patriots,DEF,18,0, , -   
+Miami,Dolphins,DEF,19,0, , -   
+Tanner,Conner,TE,10,0,Q, -   
+Braylon,Sanders,WR,10,0, , -   
+ZaQuandre,White,RB,10,0, , -   
+Lil'Jordan,Humphrey,WR,10,5.4, , 0.54 
+Mohamed,Sanu Sr.,WR,10,3.2, , 0.32 
+Josh,Hammond,WR,10,0, , -   
+Adam,Shaheen,TE,10,2.4,IR, 0.24 
+Jalen,Wydermyer,TE,10,0, , -   
+Kyle,Juszczyk,RB,10,3.8, , 0.38 
+Jimmy,Garoppolo,QB,20,14.8, , 0.74 
+Nate,Sudfeld,QB,20,0, , -   
+Marcus,Johnson,WR,10,2.9, , 0.29 
+George,Kittle,TE,21,10.5,Q, 0.50 
+Ray-Ray,McCloud III,WR,10,2.9, , 0.29 
+Ross,Dwelley,TE,10,4.4, , 0.44 
+Jeff,Wilson Jr.,RB,12,6.9, , 0.58 
+Malik,Turner,WR,10,5, , 0.50 
+Deebo,Samuel,WR,28,17.5, , 0.63 
+Brandon,Aiyuk,WR,14,8, , 0.57 
+Charlie,Woerner,TE,10,0.9, , 0.09 
+Jauan,Jennings,WR,10,4.8, , 0.48 
+JaMycal,Hasty,RB,10,2.8, , 0.28 
+Trey,Lance,QB,25,11.2, , 0.45 
+Trey,Sermon,RB,10,3.8, , 0.38 
+Eli,Mitchell,RB,19,13.4, , 0.71 
+Tyrion,Davis-Price,RB,10,0, , -   
+Danny,Gray,WR,10,0, , -   
+Brock,Purdy,QB,20,0, , -   
+Tay,Martin,WR,10,0, , -   
+Jordan,Mason,RB,10,0, , -   
+Patrick,Scales,TE,10,0, , -   
+Ryan,Griffin,TE,10,3.7, , 0.37 
+James,O'Shaughnessy,TE,10,5.5, , 0.55 
+Trevor,Siemian,QB,20,15.5, , 0.78 
+Tajae,Sharpe,WR,10,2.5,IR, 0.25 
+Nathan,Peterman,QB,20,0.2, , 0.01 
+David,Moore,WR,10,0,IR, -   
+Dante,Pettis,WR,10,6.8, , 0.68 
+Equanimeous,St. Brown,WR,10,1.3, , 0.13 
+Byron,Pringle,WR,10,7.3, , 0.73 
+David,Montgomery,RB,20,13.5, , 0.68 
+Nsimba,Webster,WR,10,0, , -   
+Khari,Blasingame,RB,10,0, , -   
+Cole,Kmet,TE,11,5.4, , 0.49 
+Darrynton,Evans,RB,10,2.8, , 0.28 
+Isaiah,Coulter,WR,10,0, , -   
+Darnell,Mooney,WR,19,10.5, , 0.55 
+Chris,Finke,WR,10,0, , -   
+Justin,Fields,QB,24,11.4, , 0.48 
+Khalil,Herbert,RB,12,4.5, , 0.38 
+Velus,Jones Jr.,WR,11,0,Q, -   
+Trestan,Ebner,RB,10,0, , -   
+Chase,Allen,TE,10,0, , -   
+Kevin,Shaa,WR,10,0, , -   
+Jake,Tonges,TE,10,0, , -   
+De'Montre,Tuggle,RB,10,0, , -   
+San Francisco,49ers,DEF,18,0, , -   
+Chicago,Bears,DEF,12,0, , -   
+Troy,Fumagalli,TE,10,0, , -   
+Tyler,Kroft,TE,10,3.5, , 0.35 
+N'Keal,Harry,WR,10,2.4,IR, 0.24 
+Jordan,Matthews,TE,10,0,IR, -   
+Willie,Snead IV,WR,10,0.8, , 0.08 
+Amari,Cooper,WR,19,11.5, , 0.61 
+Jacoby,Brissett,QB,20,7.6, , 0.38 
+Jakeem,Grant Sr.,WR,10,2.4,IR, 0.24 
+Deshaun,Watson,QB,20,0,SUSP, -   
+David,Njoku,TE,12,6, , 0.50 
+Kareem,Hunt,RB,13,12.4, , 0.95 
+Joshua,Dobbs,QB,20,0, , -   
+Baker,Mayfield,QB,21,13.9, , 0.66 
+Nick,Chubb,RB,23,14.1, , 0.61 
+John,Kelly Jr.,RB,10,1.3, , 0.13 
+Javon,Wims,WR,10,0, , -   
+Johnny,Stanton IV,RB,10,2.7, , 0.27 
+D'Ernest,Johnson,RB,11,7.3, , 0.66 
+Harrison,Bryant,TE,10,4, , 0.40 
+Donovan,Peoples-Jones,WR,10,7.1, , 0.71 
+Ja'Marcus,Bradley,WR,10,2.1, , 0.21 
+Anthony,Schwartz,WR,10,2.2, , 0.22 
+Demetric,Felton,RB,10,2.8, , 0.28 
+Miller,Forristall,TE,10,0, , -   
+David,Bell,WR,10,0, , -   
+Jerome,Ford,RB,10,0, , -   
+Michael,Woods II,WR,10,0,Q, -   
+Andre,Roberts,WR,10,0.7, , 0.07 
+Rashard,Higgins,WR,10,3.8, , 0.38 
+Robbie,Anderson,WR,11,6.6, , 0.60 
+Christian,McCaffrey,RB,37,15.6, , 0.42 
+D'Onta,Foreman,RB,14,9.6, , 0.69 
+P.J.,Walker,QB,20,3.4, , 0.17 
+Colin,Thompson,TE,10,0, , -   
+Brandon,Zylstra,WR,10,3.3, , 0.33 
+Sam,Darnold,QB,20,14.2,IR, 0.71 
+DJ,Moore,WR,18,11.2, , 0.62 
+Ian,Thomas,TE,10,2, , 0.20 
+Stephen,Sullivan,TE,10,0, , -   
+Giovanni,Ricci,RB,10,0,Q, -   
+Terrace,Marshall Jr.,WR,10,2, , 0.20 
+Tommy,Tremble,TE,10,2.9, , 0.29 
+Chuba,Hubbard,RB,10,7.8, , 0.78 
+Shi,Smith,WR,10,2.6, , 0.26 
+Spencer,Brown,RB,10,0, , -   
+C.J.,Saunders,WR,10,2.1, , 0.21 
+Josh,Babicz,TE,10,0, , -   
+Ra'Shaun,Henry,WR,10,0, , -   
+John,Lovett,RB,10,0, , -   
+Charleston,Rambo,WR,10,0, , -   
+Derek,Wright,WR,10,0, , -   
+Cleveland,Browns,DEF,15,0, , -   
+Carolina,Panthers,DEF,11,0, , -   
+Mike,Harley Jr.,WR,10,0, , -   
+Zaire,Mitchell-Paden,TE,10,0, , -   
+Nakia,Griffin-Stewart,TE,10,0, , -   
+Keith,Kirkwood,WR,10,1.1, , 0.11 
+Josh,Rosen,QB,20,-0.8, , (0.04)
+Isaiah,Weston,WR,10,0,IR, -   
+Daylen,Baldwin,WR,10,0, , -   
+Easop,Winston,WR,10,0.3, , 0.03 
+Matt,Corral,QB,20,0,IR, -   
+Mike,Davis,RB,12,6.8, , 0.57 
+Nick,Boyle,TE,10,0.4, , 0.04 
+Patrick,Ricard,RB,10,2.4, , 0.24 
+Lamar,Jackson,QB,34,21.1, , 0.62 
+Mark,Andrews,TE,29,15, , 0.52 
+Gus,Edwards,RB,18,0,PUP, -   
+Josh,Oliver,TE,10,1, , 0.10 
+Justice,Hill,RB,10,0, , -   
+J.K.,Dobbins,RB,20,0,Q, -   
+Devin,Duvernay,WR,10,4.2, , 0.42 
+James,Proche II,WR,10,4, , 0.40 
+Tyler,Huntley,QB,24,12.4, , 0.52 
+Binjimen,Victor,WR,10,0, , -   
+Rashod,Bateman,WR,16,6.7, , 0.42 
+Tylan,Wallace,WR,10,0.3, , 0.03 
+Ben,Mason,TE,10,0, , -   
+Tony,Poljan,TE,10,0, , -   
+Nate,McCrary,RB,10,-0.1, , (0.01)
+Charlie,Kolar,TE,13,0,IR, -   
+Isaiah,Likely,TE,12,0, , -   
+Tyler,Badie,RB,10,0, , -   
+Shemar,Bridges,WR,10,0, , -   
+Anthony,Brown,QB,20,0, , -   
+Makai,Polk,WR,10,0, , -   
+Raleigh,Webb,WR,10,0, , -   
+Joe,Flacco,QB,20,11.9, , 0.60 
+Tevin,Coleman,RB,10,4.2, , 0.42 
+C.J.,Uzomah,TE,15,6.6, , 0.44 
+Corey,Davis,WR,16,9.8, , 0.61 
+Tyler,Conklin,TE,11,6.3, , 0.57 
+Mike,White,QB,20,13, , 0.65 
+Braxton,Berrios,WR,14,6.1, , 0.44 
+Nick,Bawden,RB,10,2.5,IR, 0.25 
+Trevon,Wesco,TE,10,0.8, , 0.08 
+Ty,Johnson,RB,10,6.7, , 0.67 
+Jeff,Smith,WR,10,1.7, , 0.17 
+Denzel,Mims,WR,10,1.7, , 0.17 
+La'Mical,Perine,RB,10,1.5, , 0.15 
+Lawrence,Cager,WR,10,0, , -   
+Zach,Wilson,QB,22,12.5,O, 0.57 
+Elijah,Moore,WR,19,10.6, , 0.56 
+Michael,Carter,RB,12,9.7, , 0.81 
+Kenny,Yeboah,TE,10,2.3, , 0.23 
+Tarik,Black,WR,10,1.5, , 0.15 
+Garrett,Wilson,WR,16,0, , -   
+Breece,Hall,RB,17,0, , -   
+Jeremy,Ruckert,TE,10,0, , -   
+Irvin,Charles,WR,10,0, , -   
+Zonovan,Knight,RB,10,0, , -   
+Calvin,Jackson Jr.,WR,10,0, , -   
+Baltimore,Ravens,DEF,11,0, , -   
+New York,Jets,DEF,10,0, , -   
+Chris,Streveler,QB,20,1, , 0.05 
+Demarcus,Robinson,WR,10,3.9, , 0.39 
+Derek,Watt,RB,10,0.3, , 0.03 
+Mitch,Trubisky,QB,20,1.5, , 0.08 
+Anthony,Miller,WR,10,3.8,IR, 0.38 
+Mason,Rudolph,QB,20,9.7, , 0.49 
+Kevin,Rader,TE,10,0.6, , 0.06 
+Diontae,Johnson,WR,20,13.2,Q, 0.66 
+Jace,Sternberger,TE,10,0, , -   
+Miles,Boykin,WR,10,1.1, , 0.11 
+Benny,Snell Jr.,RB,10,1, , 0.10 
+Zach,Gentry,TE,10,2.9, , 0.29 
+Steven,Sims Jr.,WR,10,0, , -   
+Gunner,Olszewski,WR,10,0.3, , 0.03 
+Chase,Claypool,WR,15,8.8, , 0.59 
+Anthony,McFarland Jr.,RB,10,1, , 0.10 
+Cody,White,WR,10,1, , 0.10 
+Najee,Harris,RB,27,14.1, , 0.52 
+Pat,Freiermuth,TE,15,7.4, , 0.49 
+Tyler,Vaughns,WR,10,0, , -   
+Kenny,Pickett,QB,20,0, , -   
+George,Pickens,WR,13,0, , -   
+Calvin,Austin III,WR,10,0,IR, -   
+Connor,Heyward,TE,10,0, , -   
+Jaylen,Warren,RB,10,0, , -   
+Clark,Harris,TE,10,0, , -   
+Tyler,Boyd,WR,12,8.8, , 0.73 
+Brandon,Allen,QB,20,2.8, , 0.14 
+Mike,Thomas,WR,10,1.1, , 0.11 
+Joe,Mixon,RB,30,16.2, , 0.54 
+Trent,Taylor,WR,10,1, , 0.10 
+Hayden,Hurst,TE,10,4.3, , 0.43 
+Drew,Sample,TE,10,1.4, , 0.14 
+Trayveon,Williams,RB,10,1.5, , 0.15 
+Jake,Browning,QB,20,0, , -   
+Elijah,Holyfield,RB,10,0,IR, -   
+Trenton,Irwin,WR,10,1.1, , 0.11 
+Stanley,Morgan,WR,10,0.2, , 0.02 
+Joe,Burrow,QB,34,19.8, , 0.58 
+Tee,Higgins,WR,22,13, , 0.59 
+Mitchell,Wilcox,TE,10,0.8,Q, 0.08 
+Thaddeus,Moss,TE,10,0, , -   
+Ja'Marr,Chase,WR,31,15.4, , 0.50 
+Chris,Evans,RB,10,3.4, , 0.34 
+Nick,Eubanks,TE,10,0, , -   
+Pittsburgh,Steelers,DEF,13,0, , -   
+Cincinnati,Bengals,DEF,13,0, , -   
+Cal,Adomitis,TE,10,0, , -   
+Kwamie,Lassiter II,WR,10,0, , -   
+Kendric,Pryor,WR,10,0, , -   
+Justin,Rigg,TE,10,0, , -   
+Tyler,Snead,WR,10,0, , -   
+Jeremy,McNichols,RB,10,4.6,IR, 0.46 
+Jacques,Patrick,RB,10,1.2, , 0.12 
+Samaje,Perine,RB,12,4.3, , 0.36 
+Max,Borghi,RB,10,0, , -   
+Master,Teague III,RB,10,0, , -   
